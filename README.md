@@ -11,6 +11,10 @@ Learn how to provision a new Windows 11 virtual machine within the Azure portal.
 ![](https://colony-recorder.s3.amazonaws.com/files/2026-06-28/4d3d9d9c-de5f-406c-a36e-682a407d5d3c/ascreenshot_02847d64f7ad4685a84e3dfb5c411fac_text_export.jpeg)
 
 
+
+
+
+
 2\. Click "Create".
 
 ![](https://colony-recorder.s3.amazonaws.com/files/2026-06-28/12992d61-2130-4982-ba0f-e9bad00ad521/ascreenshot_3aec0c139bd145328804e5ec3d742340_text_export.jpeg)
